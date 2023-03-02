@@ -14,3 +14,36 @@
   },
   "version": 1
 }
+npnnpmphppip,'),"name": "npm-package-resolver",
+  "version": "1.0.6",
+  "description": "An API for Resolving NPM package dependencies",
+  "main": "api.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "redis",
+    "nodejs",
+    "npm",
+    "pacakge",
+    "resolve",
+    "resolver",
+    "dependencies"
+  ],
+  "author": "Liam Bilich",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^1.5.2",
+    "express": "^4.13.4",
+    "moment": "^2.11.2",
+    "redis": "^2.5.0-1",
+    "request": "^2.69.0",
+    "body-parser": "latest",
+    "underscore": "^1.8.3",
+    "unit.js": "^2.0.0",
+    "winston": "^2.2.0"
+  },
+  "devDependencies": {
+    "should": "^8.2.2",
+    "nodemon":"latest",
+    "snyk":"latest,')
